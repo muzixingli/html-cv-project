@@ -1,0 +1,8 @@
+{
+  "name": "AI 简历智能初筛工作台",
+  "description": "企业内部 HR 协作智能简历初筛系统，支持 Moka 实时同步、硬规则前置拦截、岗位立体画像、四维量化初筛评分与一键推送到 Moka。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
